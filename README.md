@@ -4,6 +4,7 @@
 
 ## 목차
 
-* [git](./git)
+* [git 기초 문법](./git 기초문법.md)
 * [markdown](./markdown.md)
+* [원격 저장소 기초](./원격 저장소(remote repository) 기초.md)
 
